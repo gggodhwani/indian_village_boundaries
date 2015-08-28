@@ -24,11 +24,4 @@ Data is currently maintained in [CSV](http://en.wikipedia.org/wiki/Comma-separat
 14. **state_census_code**: State census code according to 2011 Census of India
 15. **geometery_in_wkt**: Geometery of the village in WKT(Well-known Text) format
 16. **centroid_latitude**: Latitude value of centroid of the village geometery  
-17. **centroid_longitude**: Longitude value of centroid of the village geometery   
-  
-## Author
-
-**Gaurav Godhwani**
-Technologist, data nerd, NGO lover, polyglot programmer, doing Data-for-Good at [DataKind Bangalore](http://www.datakind.org/howitworks/datachapters/datakind-blr/) and working for child welfare at [Orenda Initiatives](http://www.orendainitiatives.org/).
-- <https://github.com/gggodhwani>
-- <https://twitter.com/gggodhwani>
+17. **centroid_longitude**: Longitude value of centroid of the village geometery 
